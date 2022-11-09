@@ -1,0 +1,40 @@
+bash-5.2# curl 172.20.230.33
+<html>
+<h1>This is version 1</h1>
+</html>
+bash-5.2# curl 172.20.230.33
+<html>
+<h1>This is version 1</h1>
+</html>
+bash-5.2# curl 172.20.230.33
+<html>
+<h1>This is version 2</h1>
+</html>
+bash-5.2# curl 172.20.230.33
+<html>
+<h1>This is version 1</h1>
+</html>
+bash-5.2# curl 172.20.230.33
+<html>
+<h1>This is version 2</h1>
+</html>
+bash-5.2# curl 172.20.230.33
+<html>
+<h1>This is version 2</h1>
+</html>
+bash-5.2# curl 172.20.230.33
+<html>
+<h1>This is version 1</h1>
+</html>
+bash-5.2# curl 172.20.230.33
+<html>
+<h1>This is version 2</h1>
+</html>
+bash-5.2# curl 172.20.230.33
+<html>
+<h1>This is version 1</h1>
+</html>
+bash-5.2# curl 172.20.230.33
+<html>
+<h1>This is version 2</h1>
+</html>
