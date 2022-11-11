@@ -1,0 +1,19 @@
+$ kubectl get pods
+NAME                                  READY   STATUS    RESTARTS   AGE
+bloaty-mcbloatface-58c98b98d8-5f9hz   1/1     Running   0          10m
+bloaty-mcbloatface-58c98b98d8-5jncx   1/1     Running   0          10m
+bloaty-mcbloatface-58c98b98d8-5ndn4   0/1     Pending   0          10m
+bloaty-mcbloatface-58c98b98d8-744zb   1/1     Running   0          10m
+bloaty-mcbloatface-58c98b98d8-9vrbb   1/1     Running   0          10m
+bloaty-mcbloatface-58c98b98d8-fv5sv   0/1     Pending   0          10m
+bloaty-mcbloatface-58c98b98d8-l6mg6   1/1     Running   0          10m
+bloaty-mcbloatface-58c98b98d8-mbbdw   0/1     Pending   0          10m
+bloaty-mcbloatface-58c98b98d8-nf7wq   1/1     Running   0          10m
+bloaty-mcbloatface-58c98b98d8-nqhdh   1/1     Running   0          10m
+bloaty-mcbloatface-58c98b98d8-qvtj9   1/1     Running   0          10m
+bloaty-mcbloatface-58c98b98d8-s5hw5   1/1     Running   0          10m
+bloaty-mcbloatface-58c98b98d8-v2j72   1/1     Running   0          10m
+bloaty-mcbloatface-58c98b98d8-vmtz5   1/1     Running   0          10m
+bloaty-mcbloatface-58c98b98d8-wrs2g   0/1     Pending   0          10m
+bloaty-mcbloatface-58c98b98d8-xdwsn   1/1     Running   0          10m
+bloaty-mcbloatface-58c98b98d8-zmz6b   1/1     Running   0          10m
