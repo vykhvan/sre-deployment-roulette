@@ -1,0 +1,2 @@
+Pod: hello-world-794458d64d-5kh5v - 19Mi
+Deployment: hello-world
